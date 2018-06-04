@@ -1,0 +1,8 @@
+Desktop Entry]
+Type=Application
+Terminal=false
+Name=Irish-Lotto-Killa
+Exec=/home/bitsnpcs/Irish-Lotto-Killa.py
+Icon=/usr/share/icons/Humanity/apps/24/application-community.svg
+StartupWMClass=myTkApp
+Name[en_US]=Irish-Lotto-Killa
